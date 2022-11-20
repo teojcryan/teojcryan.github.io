@@ -1,12 +1,5 @@
 ---
-title: "teojcryan.github.io"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+title: "Ryan Teo"
 page-layout: full
 title-block-banner: true
 ---
