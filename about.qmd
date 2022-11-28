@@ -2,33 +2,22 @@
 title: "Ryan Teo"
 image: profile.jpg
 about:
-  template: jolla
+  template: trestles
   image-shape: round
-  #image-width: 10em
+  image-width: 10em
   links:
     - icon: twitter
-      href: https://twitter.com
+      href: https://twitter.com/teojcryan
     - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      # text: LinkedIn
+      href: https://linkedin.com/in/teojcryan
     - icon: github
-      text: Github
-      href: https://github.com
-
+      # text: Github
+      href: https://github.com/teojcryan
 ---
 
-## Education
+I'm currently a Political Affairs Intern at the United Nations Office for Disarmament Affairs, where I support the Biological Weapons Convention. My research interests include infectious disease modelling and other computational approaches to improving health security. I am also interested in the broader biological disarmament regime.
 
-University of Warwick | Coventry, United Kingdom
+I graduated from the University of Warwick in 2022 with a MSc Mathematics of Systems, for which my thesis focused on quantifying the effect of reporting structures on nowcasting COVID-19 incidence in England. Prior to that, I received a BSc (Hons) in Statistics (Specialisation in Data Science) and minors in Public Health and Geographical Information Systems from the National University of Singapore. My honours project focused on using serological data to predict population susceptibility to dengue over space and time in Singapore.
 
-MSc Mathematics of Systems | 
-
-National University of Singapore | Singapore
-
-BSc (Hons) Statistics (Specialisation in Data Science)
-
-I graduated from the National University of Singapore in 2021 with a BSc (Hons) in Statistics (Specialisation in Data Science) and minors in Public Health and Geographical Information Systems. My honours project focused on using serological data to predict population susceptibility to dengue over space and time in Singapore.
-
-During my time at NUS, I was also a resident of Residential College 4, where I was trained in System Dynamics. I also served as the Research Director for the NUS Public Health Society. I also completed internships in the public sector, industry, and academic settings.
-
-My research interests include infectious disease modelling, statistical learning, and biostatistics. In particular, I am keen on applying mathematical modelling to improve pandemic preparedness and outbreak response.
+This website is a work in progress.

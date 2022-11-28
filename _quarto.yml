@@ -4,25 +4,29 @@ project:
 website:
   title: "Ryan Teo"
   navbar:
-    right:
+    left:
       - text: Home
         href: index.qmd
-      - text: About
-        href: about.qmd
-      - text: Research
-        href: research.qmd
-      - text: Blog
-        href: blog.qmd
+      # - text: About
+      #   href: about.qmd
+      # - text: Research
+      #   href: research.qmd
+      # - text: Blog
+      #   href: blog.qmd
+    right:
       - icon: github
-        href: https://github.com/
+        href: https://github.com/teojcryan
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/teojcryan
+  page-footer: "© 2022, Ryan Teo" 
 
 format:
   html:
-    theme: cosmo
+    mainfont: sans-serif
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
-
 
 

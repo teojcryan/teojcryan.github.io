@@ -1,7 +1,23 @@
 ---
 title: "Ryan Teo"
-page-layout: full
-title-block-banner: true
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links:
+    - icon: twitter
+      href: https://twitter.com/teojcryan
+    - icon: linkedin
+      # text: LinkedIn
+      href: https://linkedin.com/in/teojcryan
+    - icon: github
+      # text: Github
+      href: https://github.com/teojcryan
 ---
 
+I'm currently a Political Affairs Intern at the United Nations Office for Disarmament Affairs, where I support the Biological Weapons Convention. My research interests include infectious disease modelling and other computational approaches to improving health security. I am also interested in the broader biological disarmament regime.
 
+I graduated from the University of Warwick in 2022 with a MSc Mathematics of Systems, for which my thesis focused on quantifying the effect of reporting structures on nowcasting COVID-19 incidence in England. Prior to that, I received a BSc (Hons) in Statistics (Specialisation in Data Science) and minors in Public Health and Geographical Information Systems from the National University of Singapore. My honours project focused on using serological data to predict population susceptibility to dengue over space and time in Singapore.
+
+This website is a work in progress.
